@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Cute for life",
+  "base_artist": "高嶺のなでしこ",
+  "createdAt": "2025-12-14T18:40:10.416778Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cute for life",
+      "artist": "高嶺のなでしこ",
+      "has_synced": false,
+      "path": "select/pl_01_Cute_for_life_高嶺のなでしこ.txt"
+    }
+  ]
+}
